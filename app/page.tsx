@@ -41,11 +41,14 @@ export default function Home() {
                     <span className="text-green-500 mr-2">✓</span> 스팀 시 유지력이 좋고 고소한 뒷맛
                   </p>
                 </div>
-                <div className="mt-auto flex flex-col items-center">
+                <div className="mt-auto flex flex-col items-center w-full">
                   <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">제품 상세 보기 및 구매하기 👇</p>
-                  <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
+                  <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300 mb-4">
                     <iframe src="https://coupa.ng/clLhPX" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                   </div>
+                  <a href="https://link.coupang.com/a/dVezid" target="_blank" rel="noopener noreferrer" className="w-full bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-4 rounded-xl text-center shadow-md transition-colors duration-200">
+                    로켓배송으로 구매하기
+                  </a>
                 </div>
               </div>
             </div>
@@ -68,11 +71,14 @@ export default function Home() {
                     <span className="text-green-500 mr-2">✓</span> 특허받은 GT 공법으로 잡내 없이 깔끔한 맛
                   </p>
                 </div>
-                <div className="mt-auto flex flex-col items-center">
+                <div className="mt-auto flex flex-col items-center w-full">
                   <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">제품 상세 보기 및 구매하기 👇</p>
-                  <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
+                  <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300 mb-4">
                     <iframe src="https://coupa.ng/clLhRS" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                   </div>
+                  <a href="https://link.coupang.com/a/dVeBwC" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-4 rounded-xl text-center shadow-md transition-colors duration-200">
+                    로켓배송으로 구매하기
+                  </a>
                 </div>
               </div>
             </div>
@@ -95,9 +101,9 @@ export default function Home() {
                     <span className="text-green-500 mr-2">✓</span> 넉넉한 용량, 합리적인 가격대
                   </p>
                 </div>
-                <div className="mt-auto">
+                <div className="mt-auto w-full">
                   <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">다양한 옵션 구매하기 👇</p>
-                  <div className="grid grid-cols-2 gap-3 justify-items-center bg-slate-50 p-4 rounded-xl border border-slate-100">
+                  <div className="grid grid-cols-2 gap-3 justify-items-center bg-slate-50 p-4 rounded-xl border border-slate-100 mb-4">
                     <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
                       <iframe src="https://coupa.ng/clLhTu" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
@@ -111,6 +117,9 @@ export default function Home() {
                       <iframe src="https://coupa.ng/clLhUh" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
                   </div>
+                  <a href="https://link.coupang.com/a/dVeCCt" target="_blank" rel="noopener noreferrer" className="w-full block bg-emerald-500 hover:bg-emerald-600 text-white font-bold py-3 px-4 rounded-xl text-center shadow-md transition-colors duration-200">
+                    로켓배송으로 구매하기
+                  </a>
                 </div>
               </div>
             </div>
