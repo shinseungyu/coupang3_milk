@@ -42,7 +42,7 @@ export default function Home() {
               <div className="mt-auto flex flex-col items-center">
                 <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">제품 상세 보기 및 구매하기 👇</p>
                 <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                  <iframe src="https://coupa.ng/clLhPX" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                  <iframe src="https://coupa.ng/clLhPX" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@ export default function Home() {
               <div className="mt-auto flex flex-col items-center">
                 <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">제품 상세 보기 및 구매하기 👇</p>
                 <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                   <iframe src="https://coupa.ng/clLhRS" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                   <iframe src="https://coupa.ng/clLhRS" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                 </div>
               </div>
             </div>
@@ -103,16 +103,16 @@ export default function Home() {
                  <p className="text-sm font-semibold text-slate-500 mb-3 block text-center">다양한 옵션 구매하기 👇</p>
                  <div className="grid grid-cols-2 gap-3 justify-items-center bg-slate-50 p-4 rounded-xl border border-slate-100">
                     <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                      <iframe src="https://coupa.ng/clLhTu" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                      <iframe src="https://coupa.ng/clLhTu" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
                     <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                       <iframe src="https://coupa.ng/clLhTF" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                       <iframe src="https://coupa.ng/clLhTF" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
                     <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                       <iframe src="https://coupa.ng/clLhT0" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                       <iframe src="https://coupa.ng/clLhT0" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
                     <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-2 transform hover:scale-105 transition-transform duration-300">
-                       <iframe src="https://coupa.ng/clLhUh" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" browsingtopics="true"></iframe>
+                       <iframe src="https://coupa.ng/clLhUh" width="120" height="240" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url"></iframe>
                     </div>
                  </div>
               </div>
