@@ -8,8 +8,28 @@ const _notoSansKR = Noto_Sans_KR({ subsets: ['latin'], weight: ['300', '400', '5
 const _notoSerifKR = Noto_Serif_KR({ subsets: ['latin'], weight: ['400', '600', '700'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://example.com'), // 도메인이 정해지면 교체
+  alternates: {
+    canonical: '/',
+  },
   title: '유기농 우유 - 매일 마시는 우유, 그래서 더 깐깐하게',
   description: '원유부터 관리까지 투명하게, 믿고 고르는 유기농 우유. 담백한 고소함과 깔끔한 끝맛의 데일리 우유.',
+  twitter: {
+    card: 'summary_large_image',
+    title: '유기농 우유 - 매일 마시는 우유, 그래서 더 깐깐하게',
+    description: '원유부터 관리까지 투명하게, 믿고 고르는 유기농 우유. 담백한 고소함과 깔끔한 끝맛의 데일리 우유.',
+  },
+  authors: [{ name: '유기농 우유' }],
+  publisher: '유기농 우유',
+  formatDetection: {
+    telephone: false,
+    date: false,
+    address: false,
+    email: false,
+  },
+  verification: {
+    google: '여기에_구글_인증코드_입력',
+  },
 }
 
 export default function RootLayout({
