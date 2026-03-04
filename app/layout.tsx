@@ -8,7 +8,7 @@ const _notoSansKR = Noto_Sans_KR({ subsets: ['latin'], weight: ['300', '400', '5
 const _notoSerifKR = Noto_Serif_KR({ subsets: ['latin'], weight: ['400', '600', '700'] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://example.com'), // 도메인이 정해지면 교체
+  metadataBase: new URL('https://dwrta.shop'), // 도메인이 정해지면 교체
   alternates: {
     canonical: '/',
   },
