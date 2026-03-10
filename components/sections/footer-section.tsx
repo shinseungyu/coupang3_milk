@@ -56,9 +56,12 @@ export function FooterSection() {
               </p>
             ))}
           </div>
-          <div className="mt-10 pt-6 border-t border-primary-foreground/10 text-center">
+          <div className="mt-10 pt-6 border-t border-primary-foreground/10 text-center flex flex-col gap-2">
             <p className="text-xs text-primary-foreground/30">
               {'상세페이지 정보 기준 | 제품 라벨 및 제조사 고지 확인 권장'}
+            </p>
+            <p className="text-xs text-primary-foreground/20">
+              &copy; {new Date().getFullYear()} lifeportplus.com. All rights reserved.
             </p>
           </div>
         </div>
